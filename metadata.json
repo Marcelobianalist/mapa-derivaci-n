@@ -1,0 +1,6 @@
+{
+  "name": "Remix: Mapa de Derivación SSMC",
+  "description": "Mapa interactivo de la red de derivación del Servicio de Salud Metropolitano Central (SSMC), visualizando la conexión entre centros de atención primaria y hospitales.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
